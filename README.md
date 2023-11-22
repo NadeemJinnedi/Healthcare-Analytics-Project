@@ -5,7 +5,7 @@ This project focuses on healthcare data engineering and analysis. The dataset, s
 
 ## Project Tasks
 ### 1. Ingestion and ETL
-- The dataset was ingested using [Data Ingestion Tool], transformed, and stored in Azure Data Lake Storage Gen2.
+- The dataset was ingested using Azure Data Factory, transformed, and stored in Azure Data Lake Storage Gen2.
 - ETL processes were implemented on Azure Databricks, ensuring optimal data quality and integrity.
 - Transformed data was stored back in Azure Data Lake Storage Gen2.
 
