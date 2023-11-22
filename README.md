@@ -3,6 +3,10 @@
 ## Overview
 This project focuses on healthcare data engineering and analysis. The dataset, sourced from Kaggle encompasses individual medical costs billed by health insurance, including fields such as age, sex, BMI, children, smoker status, region, and charges.
 
+## Files Included
+- Python script for ingesting and transforming the dataset using Azure Databricks.
+- SQL queries for analyzing the transformed data in Azure Synapse Analytics.
+
 ## Project Tasks
 ### 1. Ingestion and ETL
 - The dataset was ingested using Azure Data Factory, transformed, and stored in Azure Data Lake Storage Gen2.
